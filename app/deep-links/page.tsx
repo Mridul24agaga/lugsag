@@ -70,7 +70,7 @@ export default function DeepLinksPage() {
     "chloetami", "ellejean", "em", "freya", "georgiaaa", "josh", "kaceymay", 
     "kaci", "kayley", "keanna", "kxceyrose", "laurdunne", "laylasoyoung", 
      "libby", "lou", "megann", "michaelajayneex", "missbrown", "misssophiaisabella", "morgan", "ollie", 
-    "poppy", "rachel", "sel", "shania", "skye", "steff", "sxmmermae"
+    "poppy", "rachel", "sel", "skye", "steff", "sxmmermae"
   ];
 
   useEffect(() => {
